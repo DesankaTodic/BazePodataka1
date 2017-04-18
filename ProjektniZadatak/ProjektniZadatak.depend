@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1452210585 source:c:\users\desanka\desktop\faks\bazepodataka1\projekat\projektnizadatak\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opcije.h"
+
+1452209414 c:\users\desanka\desktop\faks\bazepodataka1\projekat\projektnizadatak\opcije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1452104911 source:c:\users\desanka\desktop\faks\bazepodataka1\projekat\projektnizadatak\listaslogova.c
+	"listaSlogova.h"
+
+1452102655 c:\users\desanka\desktop\faks\bazepodataka1\projekat\projektnizadatak\listaslogova.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipovi.h"
+
+1452380451 c:\users\desanka\desktop\faks\bazepodataka1\projekat\projektnizadatak\tipovi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1452379895 source:c:\users\desanka\desktop\faks\bazepodataka1\projekat\projektnizadatak\opcije.c
+	"opcije.h"
+	"tipovi.h"
+	"listaSlogova.h"
+
+1453893870 source:c:\users\desanka\desktop\bazeprojekat\projektnizadatak\listaslogova.c
+	"listaSlogova.h"
+
+1453893879 c:\users\desanka\desktop\bazeprojekat\projektnizadatak\listaslogova.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"typedef.h"
+
+1452380451 c:\users\desanka\desktop\bazeprojekat\projektnizadatak\tipovi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1453925831 source:c:\users\desanka\desktop\bazeprojekat\projektnizadatak\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opcije.h"
+
+1453925814 c:\users\desanka\desktop\bazeprojekat\projektnizadatak\opcije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1453934870 source:c:\users\desanka\desktop\bazeprojekat\projektnizadatak\opcije.c
+	"opcije.h"
+	"typedef.h"
+	"listaSlogova.h"
+
+1453924799 c:\users\desanka\desktop\bazeprojekat\projektnizadatak\typedef.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
